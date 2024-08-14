@@ -1,5 +1,7 @@
-<?php
+<bodybgcolor='aqua'>
+  <?php
 
-print("welcome to lw");
+print("welcome to lw"!!);
 
 ?>
+<body>
